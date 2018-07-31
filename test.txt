@@ -4,6 +4,8 @@ and it needs some branches
 now with
 with two branches
 
+adding one more
+
 first line of text
 second line of text
 third line of text
